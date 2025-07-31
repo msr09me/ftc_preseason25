@@ -6,7 +6,7 @@ public class DriveRobot {
     {
         // Start your code below
 
-        double robotSpeed = 0.8;
+        String robotSpeed = "inf";
 
         double motorPower = 1.5;
 
