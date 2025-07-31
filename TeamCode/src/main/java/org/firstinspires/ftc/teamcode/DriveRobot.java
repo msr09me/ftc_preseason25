@@ -6,7 +6,7 @@ public class DriveRobot {
     {
         // Start your code below
 
-        double robotSpeed = 1.694202;
+        double robotSpeed = 0.8;
 
         double motorPower = 10187640.2;
 
