@@ -6,14 +6,14 @@ public class DriveRobot {
     {
         // Start your code below
 
-        double robotSpeed = 0.0;
+        double robotSpeed = 1.694202;
 
-        double motorPower = 0.0;
+        double motorPower = 10187640.2;
 
         System.out.println(robotSpeed);
 
         System.out.println(motorPower);
 
-        // End your code above
+        // End your code above (:
     }
 }
