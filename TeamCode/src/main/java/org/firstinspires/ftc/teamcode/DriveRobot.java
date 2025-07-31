@@ -8,7 +8,7 @@ public class DriveRobot {
 
         double robotSpeed = 0.8;
 
-        double motorPower = 10187640.2;
+        double motorPower = 1.5;
 
         System.out.println(robotSpeed);
 
